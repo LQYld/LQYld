@@ -1,11 +1,22 @@
 [![](https://img.shields.io/badge/-@LQYld-%23181717?style=flat-square&logo=github)](https://github.com/LQYld)
 
-🏖 前端和移动端开发者
+🏖 前端开发者
 
-- 热衷于新奇的事物 🤩 热爱思考
+- 热衷于前端技术 🤩 热爱思考
 - 喜欢分享 🧐
 
-**独立开发者，有需求可以联系我 😊**
+**独立开发者，有希望技术交流可以联系我 😊**
+
+🏖 技术栈
+
+- Vue :star:
+- React :star:
+- Electron :star:
+- Typescript :star:
+- Nodejs :star:
+- weapp :star:
+- uniapp :star:
+- Taro :star:
 
 ## Status
 
