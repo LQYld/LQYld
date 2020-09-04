@@ -7,17 +7,6 @@
 
 **独立开发者，有希望技术交流可以联系我 😊**
 
-🏖 技术栈
-
-- Vue :star:
-- React :star:
-- Electron :star:
-- Typescript :star:
-- Nodejs :star:
-- weapp :star:
-- uniapp :star:
-- Taro :star:
-
 ## Status
 
 [![LQYld github stats](https://github-readme-stats.vercel.app/api?username=LQYld&count_private=true&show_icons=true&theme=radical)](https://github.com/LQYld)
@@ -25,3 +14,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQYld&theme=radical)](https://github.com/LQYld)
 
 ---
+
+🏖 技术栈
+
+- :star: Vue
+- :star: React
+- :star: Electron
+- :star: Typescript
+- :star: Nodejs
+- :star: weapp
+- :star: uniapp
+- :star: Taro
