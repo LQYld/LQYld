@@ -9,14 +9,14 @@
 
 🏖 技术栈
 
-- Vue :star:
-- React :star:
-- Electron :star:
-- Typescript :star:
-- Nodejs :star:
-- weapp :star:
-- uniapp :star:
-- Taro :star:
+- :star: Vue
+- :star: React
+- :star: Electron
+- :star: Typescript
+- :star: Nodejs
+- :star: weapp
+- :star: uniapp
+- :star: Taro
 
 ## Status
 
