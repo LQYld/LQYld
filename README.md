@@ -3,12 +3,14 @@
 <img align="left" src="https://i.loli.net/2020/06/26/ov6QVN8TtfsFcRp.png" alt="Eryou Hao" width=285px height=384px/>
 
 <span style="height:50px"></span>
-Hi, my name is **LQY**.
-
-I'm a front-end developer from China.
+<span style="font-weight:bold">Hi, my name is **LQY**.</span>
+<br>
+<span style="font-weight:bold">I'm a front-end developer from China.</span>
+<br>
 🏖 前端开发者
 
 - 热衷于前端技术 🤩 热爱思考
+
 - 喜欢分享 🧐
 
 **独立开发者，有希望技术交流可以联系我 😊**
