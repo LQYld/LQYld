@@ -2,6 +2,7 @@
 
 <img align="left" src="https://i.loli.net/2020/06/26/ov6QVN8TtfsFcRp.png" alt="Eryou Hao" width=285px height=384px/>
 
+<span style="height:50px"></span>
 Hi, my name is **LQY**.
 
 I'm a front-end developer from China.
@@ -16,7 +17,7 @@ I'm a front-end developer from China.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQYld&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-🏖 技术栈
+<!-- 🏖 技术栈
 
 - :star: Vue
 - :star: React
@@ -25,4 +26,4 @@ I'm a front-end developer from China.
 - :star: Nodejs
 - :star: weapp
 - :star: uniapp
-- :star: Taro
+- :star: Taro -->
