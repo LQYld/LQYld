@@ -1,5 +1,10 @@
 [![](https://img.shields.io/badge/-@LQYld-%23181717?style=flat-square&logo=github)](https://github.com/LQYld)
 
+<img align="left" src="https://i.loli.net/2020/06/26/ov6QVN8TtfsFcRp.png" alt="Eryou Hao" width=285px height=384px/>
+
+Hi, my name is **LQY**.
+
+I'm a front-end developer from China.
 🏖 前端开发者
 
 - 热衷于前端技术 🤩 热爱思考
