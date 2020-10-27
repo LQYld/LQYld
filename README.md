@@ -12,14 +12,14 @@
 
 **Languages and Tools:**
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img height="20" src="./lqy-image/Vue.png">
-<img height="20" src="./lqy-image/React.png">
-<img height="20" src="./lqy-image/Weapp.png">
-<img height="20" src="./lqy-image/Nodejs.png">
-<img height="20" src="./lqy-image/Deno.png">
-<img height="20" src="./lqy-image/Webpack.png">
+<card style="background:transparent"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></card>
+<card style="background:transparent"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></card>
+<card style="background:transparent"><img height="20" src="./lqy-image/Vue.png"></card>
+<card style="background:transparent"><img height="20" src="./lqy-image/React.png"></card>
+<card style="background:transparent"><img height="20" src="./lqy-image/Weapp.png"></card>
+<card style="background:transparent"><img height="20" src="./lqy-image/Nodejs.png"></card>
+<card style="background:transparent"><img height="20" src="./lqy-image/Deno.png"></card>
+<card style="background:transparent"><img height="20" src="./lqy-image/Webpack.png"></card>
 
 **独立开发者，有希望技术交流可以联系我 😊**
 
