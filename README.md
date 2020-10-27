@@ -1,6 +1,7 @@
 [![](https://img.shields.io/badge/-@LQYld-%23181717?style=flat-square&logo=github)](https://github.com/LQYld)
 
-<img align="left" src="https://i.loli.net/2020/06/26/ov6QVN8TtfsFcRp.png" alt="Eryou Hao" width=285px height=384px/>
+<!-- <img align="left" src="https://i.loli.net/2020/06/26/ov6QVN8TtfsFcRp.png" alt="LQY" width=285px height=384px/> -->
+<img align="left" style="margin-right:6px" src="./lqy-image/lqy.gif" alt="LQY" width=300px height=384px/>
 
 <span style="height:50px"></span>
 <span style="font-weight:bold">Hi, my name is **LQY**.</span>
