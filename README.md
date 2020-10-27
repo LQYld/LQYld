@@ -12,14 +12,14 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="./lqy-image/Vue.png"></code>
-<code><img height="20" src="./lqy-image/React.png"></code>
-<code><img height="20" src="./lqy-image/Weapp.png"></code>
-<code><img height="20" src="./lqy-image/Nodejs.png"></code>
-<code><img height="20" src="./lqy-image/Deno.png"></code>
-<code><img height="20" src="./lqy-image/Webpack.png"></code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="20" src="./lqy-image/Vue.png">
+<img height="20" src="./lqy-image/React.png">
+<img height="20" src="./lqy-image/Weapp.png">
+<img height="20" src="./lqy-image/Nodejs.png">
+<img height="20" src="./lqy-image/Deno.png">
+<img height="20" src="./lqy-image/Webpack.png">
 
 **独立开发者，有希望技术交流可以联系我 😊**
 
