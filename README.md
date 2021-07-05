@@ -7,6 +7,8 @@
 <br>
 <span style="font-weight:bold">I'm a front-end developer from China.</span>
 <br>
+<span style="font-weight:bold">email: 1322760660@qq.com</span>
+<br>
 <br>
 🏖 前端开发者
 
