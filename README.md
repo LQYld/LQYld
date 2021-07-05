@@ -28,7 +28,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQYld&layout=radical)](https://github.com/LQYld) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=LQYld) -->
-![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=LQYld&theme=dark)
 
 <!-- 🏖 技术栈
 
