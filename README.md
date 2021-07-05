@@ -2,7 +2,6 @@
 
 <img align="left" src="./lqy-image/LQY.webp" alt="LQY" width=285px height=384px/>
 <!-- <img align="left" style="margin-right:100px" src="./lqy-image/lqy.gif" alt="LQY" width=300px height=384px/> -->
-<div style="height:100px"></div>
 <span style="height:50px"></span>
 <span style="font-weight:bold">Hi, my name is **LQY**.</span>
 <br>
