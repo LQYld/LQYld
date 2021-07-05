@@ -2,14 +2,9 @@
 
 <img align="left" src="./lqy-image/LQY.webp" alt="LQY" width=285px height=384px/>
 <!-- <img align="left" style="margin-right:100px" src="./lqy-image/lqy.gif" alt="LQY" width=300px height=384px/> -->
-<span style="height:50px"></span>
-<span style="font-weight:bold">Hi, my name is LQY.</span>
-<br>
-<span style="font-weight:bold">I'm a front-end developer from China.</span>
-<br>
-<span style="font-weight:bold">email: 1322760660@qq.com</span>
-<br>
-<br>
+**Hi, my name is LQY.**
+**I'm a front-end developer from China.**
+**email: 1322760660@qq.com**
 🏖 前端开发者
 
 **Languages and Tools:**
@@ -23,7 +18,7 @@
 <card style="background:transparent"><img height="20" src="./lqy-image/Deno.png"></card>
 <card style="background:transparent"><img height="20" src="./lqy-image/Webpack.png"></card>
 
-**独立开发者，有希望技术交流可以联系我 😊**
+**有希望技术交流可以联系我 😊**
 
 <!-- ## Status -->
 
