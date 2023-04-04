@@ -1,8 +1,4 @@
 [![](https://img.shields.io/badge/-@LQYld-%23181717?style=flat-square&logo=github)](https://github.com/LQYld)
-
-<img align="left" src="./lqy-image/LQY.webp" alt="LQY" width=285px height=384px/>
-<!-- <img align="left" style="margin-right:100px" src="./lqy-image/lqy.gif" alt="LQY" width=300px height=384px/> -->
-
 **Hi, my name is LQY.**
 
 **I'm a front-end developer from China.**
