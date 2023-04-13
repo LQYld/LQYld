@@ -2,7 +2,7 @@
 <div style="display:flex;width: 100%;height:100%;align-items: center;justify-content: center;">
   <div>
     
-** **
+
 **Hi, my name is LQY.**
     
 **I'm a front-end developer from China.**
