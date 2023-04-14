@@ -1,4 +1,3 @@
-[![](https://img.shields.io/badge/-@LQYld-%23181717?style=flat-square&logo=github)](https://github.com/LQYld)
 <div style="display:flex;width: 100%;height:100%;align-items: center;justify-content: center;">
   <div>
     
