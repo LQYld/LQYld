@@ -8,7 +8,7 @@
 
 **email: 1322760660@qq.com**
 
-🏖 前端开发者
+🏖 Front end developer
 
 **Languages and Tools:**
 
