@@ -1,8 +1,8 @@
-**Hi, my name is LQY.**
+**Hi, my name is Qingyun119.**
     
 **I'm a front-end developer from China.**
 
-**email**: liqingyunld@gmail.com
+**Email** : liqingyunld@gmail.com
 
 <p align="center">
   <samp>
