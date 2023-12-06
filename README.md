@@ -1,43 +1,19 @@
-<div style="display:flex;width: 100%;height:100%;align-items: center;justify-content: center;">
- <div>
-    
-
 **Hi, my name is LQY.**
     
 **I'm a front-end developer from China.**
 
-**email: 1322760660@qq.com**
+**email**: liqingyunld@gmail.com
 
-🏖 Front end developer
-
-**Languages and Tools:**
-
-<card style="background:transparent"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></card>
-<card style="background:transparent"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></card>
-<card style="background:transparent"><img height="20" src="./lqy-image/Vue.png"></card>
-<card style="background:transparent"><img height="20" src="./lqy-image/React.png"></card>
-<card style="background:transparent"><img height="20" src="./lqy-image/Weapp.png"></card>
-<card style="background:transparent"><img height="20" src="./lqy-image/Nodejs.png"></card>
-<card style="background:transparent"><img height="20" src="./lqy-image/Deno.png"></card>
-<card style="background:transparent"><img height="20" src="./lqy-image/Webpack.png"></card>
-
-**有希望技术交流可以联系我 😊**
-
-<!-- ## Status -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LQYld&layout=radical)](https://github.com/LQYld) -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=LQYld) -->
-![](https://github-readme-stats.vercel.app/api?username=LQYld&theme=dark)
-
-<!-- 🏖 技术栈
-
-- :star: Vue
-- :star: React
-- :star: Electron
-- :star: Typescript
-- :star: Nodejs
-- :star: weapp
-- :star: uniapp
-- :star: Taro -->
-  </div>
-</div>
+<p align="center">
+  <samp>
+    <a href="https://www.fe-ecosphere.com/">fe-ecosphere</a> .
+    <a href="https://aggsearch.fe-ecosphere.com/">aggsearch</a> .
+    <a href="http://biographical.fe-ecosphere.com/">biographical</a> .
+    <a href="http://blog.fe-ecosphere.com/">blog</a> .
+    <a href="https://chat-session.fe-ecosphere.com/">chat-session</a> .
+    <a href="https://marketplace.visualstudio.com/items?itemName=LQYld.doli-theme">Doli theme</a> .
+    <a href="https://slidev-theme-antfu-vite-conf-2023.fe-ecosphere.com/1">slidev-theme-antfu-vite-conf-2023</a> .
+    <a href="https://ffc.fe-ecosphere.com/">FFCDocs</a> .
+    <a href="https://feiqs.fe-ecosphere.com/">FEIQs</a> 
+  </samp>
+</p>
