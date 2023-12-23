@@ -27,6 +27,12 @@
 
 <p align="center">
   <samp>
+    <a href="https://github.com/LQYld/vscode-settings" >vscode-setting</a> 
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
     <a href="https://slidev-theme-antfu-vite-conf-2023.fe-ecosphere.com/1" >slidev-theme-antfu-vite-conf-2023</a>
   </samp>
 </p>
