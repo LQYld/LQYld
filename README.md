@@ -1,4 +1,4 @@
-**Hi, my name is Qingyun119.**
+**Hey, I am Qingyun119.**
     
 **I'm a front-end developer from China.**
 
