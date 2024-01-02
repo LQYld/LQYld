@@ -2,7 +2,7 @@
     
 **I'm a front-end developer from China.**
 
-**Email** : liqingyunld@gmail.com
+**Email**: liqingyunld@gmail.com
 
 ---
 
