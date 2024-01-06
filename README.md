@@ -20,6 +20,12 @@
 
 <p align="center">
   <samp>
+    <a href="https://new-year-flag.fe-ecosphere.com/" >promise-of-the-new-year</a> 
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
     <a href="https://marketplace.visualstudio.com/items?itemName=LQYld.doli-theme" >Doli theme</a> .
     <a href="https://marketplace.visualstudio.com/items?itemName=LQYld.vscode-icons-iconify" >vscode-icons-iconify</a>
   </samp>
