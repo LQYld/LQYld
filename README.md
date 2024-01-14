@@ -20,7 +20,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://new-year-flag.fe-ecosphere.com/" >promise-of-the-new-year</a> 
+    <a href="https://new-year-flag.fe-ecosphere.com/" >promise-of-the-new-year</a> .
+    <a href="https://random-thoughts.fe-ecosphere.com/" >random-thoughts</a> 
   </samp>
 </p>
 
